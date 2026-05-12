@@ -7,3 +7,4 @@ xhofe/alist:latest
 ghcr.io/outsourc-e/hermes-workspace:latest
 ghcr.io/virattt/ai-hedge-fund:latest
 ghcr.io/HKUDS/Vibe-Trading:latest
+ghcr.io/nesquena/hermes-webui:latest
